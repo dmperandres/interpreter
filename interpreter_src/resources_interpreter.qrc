@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+     <file>../common/icons/logo_xmapslab_interpreter.png</file>
+     <file>../common/icons/fileopen.png</file>
+     <file>../common/icons/filesave.png</file>
+     <file>../common/icons/exit.png</file>
+     <file>../common/icons/valid.png</file>
+     <file>../common/icons/invalid.png</file>
+     <file>../common/icons/add_points.png</file>
+     <file>../common/icons/add_points_un.png</file>
+     <file>../common/icons/delete_points.png</file>
+     <file>../common/icons/delete_points_un.png</file>
+     <file>../common/icons/go-up.svg</file>
+     <file>../common/icons/go-home.svg</file>
+     <file>../common/icons/folder.svg</file>
+     <file>../common/icons/edit-undo.svg</file>
+     <file>../common/icons/valid_background.png</file>
+     <file>../common/icons/invalid_background.png</file>
+</qresource>
+</RCC>
